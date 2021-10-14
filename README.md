@@ -18,6 +18,7 @@
   <img align="center" alt="Nick-PHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fnaruto-shippuden-online%2Fpage%2Fblog%2Fum-grande-ninja-nunca-perde-o-foco-em-realizar-seus-sonhos%2FQ8aV_87IXu3MX1nDRGLxgY5gmJ1oPQMg67&psig=AOvVaw1hGY8r8vi-XRRogwfKUlQi&ust=1634293819874000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi4lIfZyfMCFQAAAAAdAAAAABA8">
 </div>
 
  ##
