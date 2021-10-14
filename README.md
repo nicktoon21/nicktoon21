@@ -18,7 +18,7 @@
   <img align="center" alt="Nick-PHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://pa1.narvii.com/6273/00fa11149311cbad8f7b83d2722e9c304c0002f6_hq.gif">
+  <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;"  src="https://pa1.narvii.com/6273/00fa11149311cbad8f7b83d2722e9c304c0002f6_hq.gif">
 </div>
 
  ##
