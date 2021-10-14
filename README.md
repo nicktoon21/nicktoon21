@@ -1,7 +1,7 @@
 ### Olá! Me chamo Nicolas de Aguiar 👋
 
  
-- 🔭 Hoje eu sou Dev FullStack.
+- 🔭 Hoje eu sou Dev FullStack / Junior.
 - 🌱 Estudando NodeJS e ReactJS.
 - ⚡ Entretenimento: Series, Games e Música.
 
