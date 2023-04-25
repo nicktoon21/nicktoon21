@@ -7,9 +7,17 @@
 - ⚡ Entretenimento: Series, Games e Música.
 
 <div align="center">
-  <a href="https://github.com/nicktoon21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicktoon21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicktoon21&layout=compact&langs_count=7&theme=dracula"/>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=nicktoon21&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=nicktoon21&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicktoon21&show_icons=true" />
+</picture>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
